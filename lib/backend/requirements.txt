@@ -4,3 +4,4 @@ uvicorn[standard]
 python-dotenv
 email-validator
 sqlalchemy
+pwdlib[argon2]

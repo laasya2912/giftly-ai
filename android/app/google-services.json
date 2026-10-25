@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254796026256",
+    "project_id": "giftly-ai-a4a93",
+    "storage_bucket": "giftly-ai-a4a93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254796026256:android:2e41544a862417e6d06315",
+        "android_client_info": {
+          "package_name": "com.example.gift_recommendation_engine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDucZJV4gWrwE__mwAY_GjGGsuANke752U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

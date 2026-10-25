@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-const String apiBaseUrl = 'http://127.0.0.1:8000';
+const String apiBaseUrl = 'https://giftly-ai-backend.onrender.com';
 
 const Color primaryPink = Color(0xFFE85D9E);
 const Color deepPurple = Color(0xFF7357D8);
